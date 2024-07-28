@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Henry Bushnell",
+            "title": "2026 World Cup schedule: Everything we know about locations, dates, times, teams, tickets and more - Yahoo Sports",
+            "description": "The 2026 World Cup schedule is maddeningly complex. FIFA has revealed some details, but others won't be released until later.",
+            "url": "https://sports.yahoo.com/2026-world-cup-schedule-start-date-stadiums-cities-tickets-024548234.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/r9bnOcEsigUUqK_CTxVOYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/16217460-c3cc-11ee-af6b-b70e389edc74",
+            "publishedAt": "2024-02-05T05:27:00Z",
+            "content": "The full 2026 World Cup schedule won't be finalized until December 2025, but FIFA revealed key details on Sunday. (Photo by Brennan Asplen/FIFA via Getty Images)\r\nThe 2026 World Cup schedule, or at l… [+17785 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Rex Hoggard",
+            "title": "PGA Tour cancels final round of AT&T Pebble Beach; Wyndham Clark declared winner - NBC Sports",
+            "description": "Because of ongoing weather concerns, the PGA Tour reduced the event to 54 holes.",
+            "url": "https://www.nbcsports.com/golf/news/pga-tour-cancels-final-round-of-at-t-pebble-beach-wyndham-clark-declared-winner",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/33f3faf/2147483647/strip/true/crop/5261x2959+0+274/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7d%2F6b%2F7c8bf43c4bdc8fbf4386f24e1135%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1985834361",
+            "publishedAt": "2024-02-05T04:30:00Z",
+            "content": "PEBBLE BEACH, Calif. For the first time since 2016, the PGA Tour has shortened an event to 54 holes following Sundays washout at the AT&amp;T Pebble Beach Pro-Am and a forecast that calls for continu… [+2305 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Henry Bushnell",
+            "title": "2026 World Cup schedule: Everything we know about locations, dates, times, teams, tickets and more - Yahoo Sports",
+            "description": "The 2026 World Cup schedule is maddeningly complex. FIFA has revealed some details, but others won't be released until later.",
+            "url": "https://sports.yahoo.com/2026-world-cup-schedule-start-date-stadiums-cities-tickets-024548234.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/r9bnOcEsigUUqK_CTxVOYw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/16217460-c3cc-11ee-af6b-b70e389edc74",
+            "publishedAt": "2024-02-05T05:27:00Z",
+            "content": "The full 2026 World Cup schedule won't be finalized until December 2025, but FIFA revealed key details on Sunday. (Photo by Brennan Asplen/FIFA via Getty Images)\r\nThe 2026 World Cup schedule, or at l… [+17785 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Rex Hoggard",
+            "title": "PGA Tour cancels final round of AT&T Pebble Beach; Wyndham Clark declared winner - NBC Sports",
+            "description": "Because of ongoing weather concerns, the PGA Tour reduced the event to 54 holes.",
+            "url": "https://www.nbcsports.com/golf/news/pga-tour-cancels-final-round-of-at-t-pebble-beach-wyndham-clark-declared-winner",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/33f3faf/2147483647/strip/true/crop/5261x2959+0+274/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7d%2F6b%2F7c8bf43c4bdc8fbf4386f24e1135%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1985834361",
+            "publishedAt": "2024-02-05T04:30:00Z",
+            "content": "PEBBLE BEACH, Calif. For the first time since 2016, the PGA Tour has shortened an event to 54 holes following Sundays washout at the AT&amp;T Pebble Beach Pro-Am and a forecast that calls for continu… [+2305 chars]"
+        }
+    ]
+}
